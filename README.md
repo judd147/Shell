@@ -7,3 +7,6 @@ Lab2:
 The program will execute a command given through the command line interface.
 Compared to the previous program, it is able to process symbols like > and |. Since the program will only run once per command, the & symbol is trivial and therefore will not be processed.
 To compile and run, use commands gcc lab1.c and ./a.out command.
+
+Lab3:
+Accepts history command. Read the maximum number of history from .maxhistory.
